@@ -464,7 +464,7 @@ letter-spacing: 0.02em;
 color: #fff;
 }
 
-.button-send{
+.footer-button-send{
   min-width: 165px;
   display: flex;
   align-items: center;
@@ -487,8 +487,8 @@ height: 40px;
 background-color: #4d5ae5;
 }
 
-.button-send:hover,
-.button-send:focus{
+.footer-button-send:hover,
+.footer-button-send:focus{
   background-color: #31d0aa;
 }
 
@@ -710,6 +710,6 @@ letter-spacing: 0.02em;
   fill: #f4f4fd;
 }
 
-.button-send{
+/* .button-send{
   height: 56px;
-}
+} */
