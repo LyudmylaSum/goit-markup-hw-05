@@ -647,7 +647,7 @@ letter-spacing: 0.02em;
   fill: #4d5ae5;
 }
 
-.texteria-container{
+.textarea-container{
   margin-bottom: 16px;
 }
 
@@ -704,12 +704,12 @@ letter-spacing: 0.02em;
   margin-right: 8px;
 }
 
-.checkbox-input:checked .span-checkbox{
+.checkbox-input:checked +span-checkbox{
   background-color: #404bbf;
   border: none;
   fill: #f4f4fd;
 }
 
-.button-modal-send{
+.page-button-class{
   height: 56px;
 }
