@@ -704,7 +704,7 @@ letter-spacing: 0.02em;
   margin-right: 8px;
 }
 
-.checkbox-input:checked +span-checkbox{
+.checkbox-input:checked+ .label-privacy .span-checkbox{
   background-color: #404bbf;
   border: none;
   fill: #f4f4fd;
